@@ -1,2 +1,8 @@
 train_list_G.json
 train_list_D.json
+.idea
+
+.DS_Store
+
+__pycache__
+trains
